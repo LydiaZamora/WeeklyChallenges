@@ -38,9 +38,7 @@ namespace ChallengesWithTestsMark8
 
         public string GetGreeting(string nameOfPerson)
         {
-            Console.WriteLine("Hello, What is your name?");
-            nameOfPerson = Console.ReadLine();
-            return nameOfPerson;
+           
         }
 
         public string GetHey()
