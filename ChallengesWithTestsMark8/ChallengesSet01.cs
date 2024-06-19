@@ -28,7 +28,15 @@ namespace ChallengesWithTestsMark8
 
         public int GetSmallestNumber(int number1, int number2)
         {
-            throw new NotImplementedException();
+            if(number1 < number2)
+            {
+                return number1;
+            }
+
+            else
+            {
+                return number2;
+            }
         }
 
         public long Multiply(long factor1, long factor2)
@@ -38,12 +46,20 @@ namespace ChallengesWithTestsMark8
 
         public string GetGreeting(string nameOfPerson)
         {
-           
+           if(nameOfPerson == "")
+            {
+                return "Hello!";
+            }
+
+           else
+            {
+                return $"Hello, {nameOfPerson}!";
+            }
         }
 
         public string GetHey()
         {
-            throw new NotImplementedException();
+            return "HEY!";
         }
     }
 }
