@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
-
+// somehow accidently pushed to Michael's. I deleted and an am pushing back to git hub
 namespace ChallengesWithTestsMark8
 {
     public class ChallengesSet03
@@ -115,6 +115,8 @@ namespace ChallengesWithTestsMark8
             for( int i = 0; i < words.Length; i++)
             {
                 words[i] = words[i].ToUpper();
+
+
             }
         }
     }
