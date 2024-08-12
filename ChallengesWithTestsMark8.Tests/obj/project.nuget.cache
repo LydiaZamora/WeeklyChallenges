@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "Im89eEpeN5znrLLJriO9vzHGco7RaMm/p3ap79RuW//f9Spjp5Z1lb3vxkx50Z8mgrg3H92F0wn74YhXMerAkw==",
+  "dgSpecHash": "GedScCTGPfmPrnhVuN4I21jNzwiH7uQa125+9mTk6v2JhFyEeqnDSyEz6/O2rj1saFGegmNlL7bpBnv4+h5pYg==",
   "success": true,
   "projectFilePath": "/Users/lydiazamora/Desktop/repos/WeeklyChallenges/ChallengesWithTestsMark8.Tests/ChallengesWithTestsMark8.Tests.csproj",
   "expectedPackageFiles": [
@@ -103,7 +103,9 @@
     "/Users/lydiazamora/.nuget/packages/xunit.core/2.4.0/xunit.core.2.4.0.nupkg.sha512",
     "/Users/lydiazamora/.nuget/packages/xunit.extensibility.core/2.4.0/xunit.extensibility.core.2.4.0.nupkg.sha512",
     "/Users/lydiazamora/.nuget/packages/xunit.extensibility.execution/2.4.0/xunit.extensibility.execution.2.4.0.nupkg.sha512",
-    "/Users/lydiazamora/.nuget/packages/xunit.runner.visualstudio/2.4.0/xunit.runner.visualstudio.2.4.0.nupkg.sha512"
+    "/Users/lydiazamora/.nuget/packages/xunit.runner.visualstudio/2.4.0/xunit.runner.visualstudio.2.4.0.nupkg.sha512",
+    "/Users/lydiazamora/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.31/microsoft.aspnetcore.app.ref.6.0.31.nupkg.sha512",
+    "/Users/lydiazamora/.nuget/packages/microsoft.netcore.app.ref/6.0.31/microsoft.netcore.app.ref.6.0.31.nupkg.sha512"
   ],
   "logs": []
 }
